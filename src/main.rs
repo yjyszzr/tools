@@ -7,7 +7,7 @@ use std::sync::{Arc, Mutex};
 use std::thread;
 
 fn main() {
-    // 测试使用默认选项，不设置窗口大小，避免与不同版本的eframe不兼容
+    // 测试使用默认选项，不设置窗口大小，避免与不同版本的eframe不兼容，test_comitt2
     let options = eframe::NativeOptions::default();
 
     // 处理返回的Result以避免警告

@@ -1,0 +1,10 @@
+[package]
+name = "pw"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.27"
+rfd = "0.14"
+
+[workspace]
